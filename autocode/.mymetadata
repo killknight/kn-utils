@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="autocode"
+  id="myeclipse.1388644273633"
+  context-root="/autocode"
+  j2ee-spec="5.0"
+  archive="autocode.war">
+  <attributes>
+    <attribute name="webrootdir" value="web" />
+  </attributes>
+</project-module>
+

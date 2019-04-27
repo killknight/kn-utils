@@ -1,0 +1,6 @@
+/** 
+ * Description ：${table.tableAlias}
+ *
+ * @author  : yusys
+ * @version : V1.0 ,<#if now??>${now?string('yyyy-MM-dd')}</#if>
+ */
