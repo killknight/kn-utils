@@ -11,4 +11,8 @@ autocode
     
     使用说明：
     
-    autocode\generator\src
+    在这个文件中维护库和其他信息：autocode\generator\src\generator.xml
+    
+    项目执行入口：autocode\generator\src\cn\org\rapid_framework\generator\GeneratorMain.java
+    
+    
